@@ -1,9 +1,14 @@
 # Google Colab
 from tensorflow import keras
+
 import numpy as np
+
 import cv2
+
 import os
+
 import matplotlib.pyplot as plt
+
 from google.colab import drive
 
 # def plot_training_history(self, history):

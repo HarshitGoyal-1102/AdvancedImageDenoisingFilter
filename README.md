@@ -63,10 +63,10 @@ Noise to Denoise
 
 <img width="1131" height="718" alt="Screenshot 2025-11-14 183433" src="https://github.com/user-attachments/assets/faee0a67-aa0f-4888-a1bd-6a30c0c0d5de" />
 
-# Just follow me and Star⭐ my repository
-
 # Training History
 
 <img width="1033" height="738" alt="Screenshot 2025-11-14 183453" src="https://github.com/user-attachments/assets/349b687d-d393-4e9d-ba2f-a83bf3d3d0a9" />
 
+
+# Just follow me and Star⭐ my repository
 

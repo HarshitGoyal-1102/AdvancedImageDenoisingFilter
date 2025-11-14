@@ -55,7 +55,7 @@ dataset_path = '/content/drive/MyDrive/train'
 
 save_model_path = '/content/drive/MyDrive/saved_model.h5'
 
-#Screenshots
+# Screenshots
 
 Noise to Denoise 
 

@@ -1,3 +1,23 @@
+# Technologies Used
+
+Python:Python is the main programming language for writing the CNN model, training, and testing the denoising system.
+
+MATLAB:MATLAB can be used for initial noise experiments and filter visualization before moving to deep learning implementation.
+
+CNN:The CNN learns how to remove noise by comparing noisy and clean images and reconstructing the denoised version.
+
+Opencv:OpenCV is used for preprocessing (adding noise, resizing, normalization) and post-processing (displaying results).
+
+TENSORFLOW:TensorFlow is the core backend where CNN is defined and trained.
+
+Keras:Keras is used to build and train the CNN model for image denoising.
+
+ML:CNN is a part of supervised ML, trained on noisy vs clean images.
+
+google colab:Used for training your CNN model efficiently with GPU support.
+
+
+
 # Google Colab
 from tensorflow import keras
 
